@@ -29,7 +29,7 @@ Initially submitted to Columbia's 2020 hackathon, for which we won the best educ
 
 TLDR: 
 ```sh
-$ git clone https://github.com/scottgeng00/lectscript
+$ git clone https://github.com/StevenW1009/lectscript
 $ cd lectscript
 $ cp main.py lectscript
 $ chmod +x lectscript
